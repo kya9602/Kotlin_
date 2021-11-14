@@ -1,0 +1,7 @@
+val a: Int = 1
+val b = 2  // Int로 자동 초기화
+val c = 3.14  // Double로 자동초기화
+val d : String
+d = "필수구문" //d = "d의 초기값이 없으면 null이 될 수 있는데, d는 null이 될 수 없기 때문에."
+val e : string?
+var d : string = "첫번째 초기화"
