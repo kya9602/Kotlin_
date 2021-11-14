@@ -1,0 +1,14 @@
+var max: Int
+if (a > b) {
+  max = a
+} else{
+  max = b
+}
+----------------
+val max = if(a > b){
+  print("Choose a")
+  a
+} else{
+  print("Choose b"
+  b
+}
